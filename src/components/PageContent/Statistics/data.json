@@ -1,0 +1,940 @@
+[
+  {
+    "Date": "17.10.2020",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 8
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "24-27",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "18-21",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "18-21",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "24-27",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Saint Petersburg",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "16.10.202",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 16
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 12
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 7
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "1-18",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "24-27",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "27-30",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "1-18",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "18-21",
+    "Value": 3
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 3
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "18-21",
+    "Value": 2
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "24-27",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "27-30",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Saint Petersburg",
+    "Parameter 2": "",
+    "Value": 6
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Moscow",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 12
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 7
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 7
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 6
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "18-21",
+    "Value": 2
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 3
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "18-21",
+    "Value": 1
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Saint Petersburg",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 7
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 13
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "24-27",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "27-30",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "18-21",
+    "Value": 2
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "24-27",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "27-30",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Saint Petersburg",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 9
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "18-21",
+    "Value": 2
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "18-21",
+    "Value": 1
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Saint Petersburg",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "18-21",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Vorkuta",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Syktyvkar",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 12
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 8
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "1-18",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "45+",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "1-18",
+    "Value": 1
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 2
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "18-21",
+    "Value": 3
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "45+",
+    "Value": 1
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Saint Petersburg",
+    "Parameter 2": "",
+    "Value": 6
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Moscow",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 8
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "members",
+    "Parameter 1": "Unsubscribed followers",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "views",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 7
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "visitors",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 6
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "F",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "gender",
+    "Parameter 1": "M",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "18-21",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "21-24",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "age",
+    "Parameter 1": "45+",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "18-21",
+    "Value": 3
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "F",
+    "Parameter 2": "45+",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "gender_age",
+    "Parameter 1": "M",
+    "Parameter 2": "21-24",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Saint Petersburg",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "cities",
+    "Parameter 1": "Odessa",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Russia",
+    "Parameter 2": "",
+    "Value": 5
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "countries",
+    "Parameter 1": "Germany",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "feedback",
+    "Parameter 1": "Likes",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "members",
+    "Parameter 1": "New followers",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "17.10.2020",
+    "Criterion": "reach_viral",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "reach_subscribers",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "16.10.2020",
+    "Criterion": "reach_viral",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "15.10.2020",
+    "Criterion": "reach_subscribers",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "reach_subscribers",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "14.10.2020",
+    "Criterion": "reach_viral",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "13.10.2020",
+    "Criterion": "reach_subscribers",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "reach_subscribers",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 3
+  },
+  {
+    "Date": "12.10.2020",
+    "Criterion": "reach_viral",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 1
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 6
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "reach_subscribers",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 4
+  },
+  {
+    "Date": "11.10.2020",
+    "Criterion": "reach_viral",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 2
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "reach",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 20
+  },
+  {
+    "Date": "10.10.2020",
+    "Criterion": "reach_subscribers",
+    "Parameter 1": "",
+    "Parameter 2": "",
+    "Value": 20
+  }
+]

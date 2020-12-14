@@ -1,0 +1,42 @@
+{
+  "name": "Social Network",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0",
+    "axios": "^0.18.0",
+    "enzyme": "^3.4.1",
+    "enzyme-adapter-react-16": "^1.2.0",
+    "enzyme-to-json": "^3.3.4",
+    "git": "^0.1.5",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-icons-kit": "^1.1.7",
+    "react-perf-devtool": "^3.1.8",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.1.4",
+    "recharts": "^1.3.4",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-mock-store": "^1.5.3",
+    "redux-saga": "^0.16.0",
+    "styled-components": "^4.0.0-beta.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "prettier": "prettier --single-quote --use-tabs --trailing-comma es5 --write \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "jest-styled-components": "^6.2.1",
+    "lodash": "^4.17.11",
+    "prettier": "^1.14.2",
+    "redux-devtools-extension": "^2.13.5"
+  }
+}
